@@ -3,7 +3,6 @@ import os
 import sys
 import pickle
 
-
 if __name__ == "__main__":
     if (len(sys.argv)) != 3:
         print("Please use the following command:")
@@ -33,7 +32,8 @@ if __name__ == "__main__":
                 filename = path + 'C' + format(c, '03d') + 'M' + format(m, '02d') + 'H' + format(h, '02d') + '/gt.pkl'
                 print('reading ' + filename + ' ...')
                 fin = open(filename, 'rb')
-                data = pickle.load(fin)
+                data = pickle.load(fin, encoding="latin1")
+                # data = pickle.load(fin, encoding='iso-8859-1')
                 fin.close()
                 for u in range(250):
                     idx = c*10*250 + m*250 + u
@@ -49,5 +49,6 @@ if __name__ == "__main__":
                     fout = open(outpath, 'w')
                     pose = data['pose'][u].tolist()
                     for i in range(len(pose)):
+
                         fout.write(str(pose[i]) + ' ')
                     fout.close()

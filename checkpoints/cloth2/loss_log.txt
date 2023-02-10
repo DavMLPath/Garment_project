@@ -1,0 +1,80 @@
+================ Training Loss (Thu Feb  2 22:55:06 2023) ================
+================ Training Loss (Thu Feb  2 22:56:19 2023) ================
+================ Training Loss (Thu Feb  2 22:56:44 2023) ================
+(epoch: 1, iters: 100, time: 0.337) G_GAN: 2.778 G_smooth: 3.461 G_nonzero: 0.443 D_real: 0.461 D_fake: 0.818 
+(epoch: 1, iters: 200, time: 0.308) G_GAN: 2.121 G_smooth: 1.207 G_nonzero: 0.416 D_real: 0.067 D_fake: 0.090 
+(epoch: 1, iters: 300, time: 0.312) G_GAN: 2.265 G_smooth: 0.796 G_nonzero: 0.343 D_real: 0.125 D_fake: 0.175 
+================ Training Loss (Thu Feb  2 23:02:28 2023) ================
+================ Training Loss (Thu Feb  2 23:03:43 2023) ================
+(epoch: 1, iters: 100, time: 0.334) G_GAN: 2.608 G_smooth: 3.459 G_nonzero: 0.386 D_real: 0.265 D_fake: 0.448 
+(epoch: 1, iters: 200, time: 0.301) G_GAN: 2.912 G_smooth: 3.434 G_nonzero: 0.185 D_real: 0.257 D_fake: 0.199 
+(epoch: 1, iters: 300, time: 0.303) G_GAN: 1.905 G_smooth: 2.007 G_nonzero: 0.000 D_real: 0.036 D_fake: 0.037 
+================ Training Loss (Thu Feb  2 23:05:58 2023) ================
+================ Training Loss (Thu Feb  2 23:06:29 2023) ================
+================ Training Loss (Thu Feb  2 23:07:45 2023) ================
+(epoch: 1, iters: 100, time: 0.344) G_GAN: 2.331 G_smooth: 2.700 G_nonzero: 0.383 D_real: 0.183 D_fake: 0.160 
+(epoch: 1, iters: 200, time: 0.315) G_GAN: 1.584 G_smooth: 1.470 G_nonzero: 0.166 D_real: 0.143 D_fake: 0.170 
+(epoch: 1, iters: 300, time: 0.313) G_GAN: 2.109 G_smooth: 2.674 G_nonzero: 0.000 D_real: 0.105 D_fake: 0.096 
+================ Training Loss (Thu Feb  2 23:10:26 2023) ================
+================ Training Loss (Thu Feb  2 23:10:46 2023) ================
+================ Training Loss (Thu Feb  2 23:39:50 2023) ================
+================ Training Loss (Mon Feb  6 13:21:29 2023) ================
+================ Training Loss (Mon Feb  6 13:26:27 2023) ================
+================ Training Loss (Mon Feb  6 16:17:09 2023) ================
+================ Training Loss (Mon Feb  6 16:28:39 2023) ================
+================ Training Loss (Mon Feb  6 16:36:09 2023) ================
+(epoch: 1, iters: 100, time: 0.322) G_GAN: 2.104 G_smooth: 5.722 G_nonzero: 0.451 D_real: 0.045 D_fake: 0.092 
+================ Training Loss (Tue Feb  7 14:17:06 2023) ================
+(epoch: 1, iters: 100, time: 0.340) G_GAN: 2.005 G_smooth: 2.246 G_nonzero: 0.427 D_real: 0.088 D_fake: 0.151 
+(epoch: 1, iters: 200, time: 0.311) G_GAN: 2.199 G_smooth: 2.037 G_nonzero: 0.354 D_real: 0.034 D_fake: 0.047 
+================ Training Loss (Tue Feb  7 14:22:59 2023) ================
+================ Training Loss (Tue Feb  7 14:29:58 2023) ================
+(epoch: 1, iters: 100, time: 0.353) G_GAN: 2.433 G_smooth: 2.190 G_nonzero: 0.427 D_real: 0.384 D_fake: 0.477 
+================ Training Loss (Tue Feb  7 14:31:27 2023) ================
+(epoch: 1, iters: 100, time: 0.351) G_GAN: 2.338 G_smooth: 3.458 G_nonzero: 0.360 D_real: 0.160 D_fake: 0.202 
+(epoch: 1, iters: 200, time: 0.326) G_GAN: 1.548 G_smooth: 4.874 G_nonzero: 0.105 D_real: 0.045 D_fake: 0.135 
+================ Training Loss (Tue Feb  7 14:33:42 2023) ================
+================ Training Loss (Tue Feb  7 14:35:55 2023) ================
+(epoch: 1, iters: 100, time: 0.348) G_GAN: 1.919 G_smooth: 2.131 G_nonzero: 0.426 D_real: 0.027 D_fake: 0.022 
+================ Training Loss (Tue Feb  7 14:39:17 2023) ================
+================ Training Loss (Tue Feb  7 14:39:45 2023) ================
+================ Training Loss (Tue Feb  7 14:40:10 2023) ================
+(epoch: 1, iters: 100, time: 0.345) G_GAN: 2.064 G_smooth: 2.764 G_nonzero: 0.423 D_real: 0.073 D_fake: 0.150 
+(epoch: 1, iters: 200, time: 0.326) G_GAN: 1.981 G_smooth: 1.425 G_nonzero: 0.263 D_real: 0.084 D_fake: 0.146 
+================ Training Loss (Tue Feb  7 14:44:10 2023) ================
+================ Training Loss (Tue Feb  7 14:45:03 2023) ================
+(epoch: 1, iters: 100, time: 0.343) G_GAN: 1.967 G_smooth: 2.346 G_nonzero: 0.451 D_real: 0.140 D_fake: 0.270 
+(epoch: 1, iters: 200, time: 0.320) G_GAN: 1.637 G_smooth: 2.587 G_nonzero: 0.252 D_real: 0.082 D_fake: 0.114 
+================ Training Loss (Tue Feb  7 14:51:18 2023) ================
+================ Training Loss (Tue Feb  7 14:54:31 2023) ================
+================ Training Loss (Tue Feb  7 14:55:05 2023) ================
+(epoch: 1, iters: 100, time: 0.349) G_GAN: 2.337 G_smooth: 4.747 G_nonzero: 0.378 D_real: 0.223 D_fake: 0.338 
+(epoch: 1, iters: 200, time: 0.323) G_GAN: 1.270 G_smooth: 2.683 G_nonzero: 0.000 D_real: 0.516 D_fake: 1.050 
+(epoch: 1, iters: 300, time: 0.326) G_GAN: 1.909 G_smooth: 1.841 G_nonzero: 0.000 D_real: 0.073 D_fake: 0.068 
+================ Training Loss (Tue Feb  7 14:57:34 2023) ================
+(epoch: 1, iters: 100, time: 0.356) G_GAN: 2.049 G_smooth: 2.573 G_nonzero: 0.453 D_real: 0.086 D_fake: 0.152 
+(epoch: 1, iters: 200, time: 0.323) G_GAN: 2.020 G_smooth: 5.186 G_nonzero: 0.277 D_real: 0.146 D_fake: 0.155 
+(epoch: 1, iters: 300, time: 0.324) G_GAN: 1.908 G_smooth: 1.814 G_nonzero: 0.026 D_real: 0.028 D_fake: 0.040 
+================ Training Loss (Tue Feb  7 15:51:48 2023) ================
+================ Training Loss (Tue Feb  7 15:53:51 2023) ================
+================ Training Loss (Tue Feb  7 15:54:51 2023) ================
+================ Training Loss (Tue Feb  7 15:55:50 2023) ================
+(epoch: 1, iters: 100, time: 0.354) G_GAN: 2.001 G_smooth: 1.715 G_nonzero: 0.445 D_real: 0.062 D_fake: 0.020 
+(epoch: 1, iters: 200, time: 0.323) G_GAN: 1.909 G_smooth: 2.602 G_nonzero: 0.420 D_real: 0.038 D_fake: 0.076 
+================ Training Loss (Tue Feb  7 16:03:14 2023) ================
+================ Training Loss (Tue Feb  7 16:06:56 2023) ================
+================ Training Loss (Tue Feb  7 21:46:31 2023) ================
+(epoch: 1, iters: 100, time: 0.351) G_GAN: 2.130 G_smooth: 4.033 G_nonzero: 0.446 D_real: 0.530 D_fake: 0.926 
+(epoch: 1, iters: 200, time: 0.317) G_GAN: 1.785 G_smooth: 2.453 G_nonzero: 0.321 D_real: 0.050 D_fake: 0.093 
+================ Training Loss (Tue Feb  7 21:51:44 2023) ================
+(epoch: 1, iters: 100, time: 0.352) G_GAN: 2.002 G_smooth: 2.698 G_nonzero: 0.413 D_real: 0.085 D_fake: 0.115 
+(epoch: 1, iters: 200, time: 0.316) G_GAN: 2.647 G_smooth: 4.659 G_nonzero: 0.105 D_real: 0.190 D_fake: 0.181 
+================ Training Loss (Wed Feb  8 17:31:28 2023) ================
+================ Training Loss (Wed Feb  8 18:13:21 2023) ================
+================ Training Loss (Wed Feb  8 18:28:09 2023) ================
+================ Training Loss (Wed Feb  8 18:29:23 2023) ================
+================ Training Loss (Wed Feb  8 22:46:02 2023) ================
+================ Training Loss (Wed Feb  8 22:49:27 2023) ================
+================ Training Loss (Wed Feb  8 22:51:16 2023) ================
+================ Training Loss (Thu Feb  9 11:05:25 2023) ================
+================ Training Loss (Fri Feb 10 15:06:58 2023) ================

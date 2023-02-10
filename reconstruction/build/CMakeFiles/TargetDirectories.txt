@@ -1,0 +1,3 @@
+/home/davo/Desktop/GAN/Garment_Generation/reconstruction/build/CMakeFiles/ProcessMesh.dir
+/home/davo/Desktop/GAN/Garment_Generation/reconstruction/build/CMakeFiles/edit_cache.dir
+/home/davo/Desktop/GAN/Garment_Generation/reconstruction/build/CMakeFiles/rebuild_cache.dir

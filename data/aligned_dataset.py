@@ -89,12 +89,14 @@ class AlignedDataset(BaseDataset):
             B = array('f')
             B.fromstring(input_file.read())
             B = np.reshape(B, (self.opt.fineSize,self.opt.fineSize,3))
+            # B = np.reshape(B, (512,512,3))
             input_file.close()
             B_tensor = transform_B(B)
 
         ### input C1 (pose)
         C1_path = self.C1_paths[index]              
-        C1 = self.readFloatArray(C1_path)    
+        C1 = self.readFloatArray(C1_path)
+
 
         ### input C2 (shape)
         C2_path = self.C2_paths[index]              
